@@ -1,0 +1,6 @@
+{
+  "name": "CareerPath AI",
+  "description": "AI-powered career roadmap generator, skill gap analyzer, and interactive learning tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
